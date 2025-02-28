@@ -4,13 +4,13 @@
 
 
 
-<h2>Certifications</h2>
+<h2>👨🏻‍🎓Certifications</h2>
 
 - Google Cybersecurity
 
 <h2> 🌱 I’m currently learning</h2>
   
-- CompTia Security+ Certification
+- CompTIA Security+ Certification
   
 <h2> 🤳 Connect with me:</h2>
 
