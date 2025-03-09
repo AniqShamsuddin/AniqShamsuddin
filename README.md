@@ -6,7 +6,7 @@
 
 <h2>👨🏻‍🎓Certifications</h2>
 
-- Google Cybersecurity
+- Google Cybersecurity Professional Certificate
 
 <h2> 🌱 I’m currently learning</h2>
   
