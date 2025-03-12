@@ -1,7 +1,8 @@
 <h1>Hi, I'm Aniq! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- Vulnerability Scanner 
+
+- Vulnerability Scanner
 
 
 <h2>👨🏻‍🎓Certifications</h2>
