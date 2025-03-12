@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aniqshamsuddin)
 
 ## About Me
-I'm a cybersecurity professional focused on strengthening digital infrastructures against evolving threats. My expertise includes vulnerability assessment, penetration testing, and security compliance.
+I'm a junior Information Technology major at the The University of Texas at Dallas focused on strengthening digital infrastructures against evolving threats. My expertise includes vulnerability assessment, penetration testing, and security compliance.
 
 ## 👨‍💻 Cybersecurity Projects
 
