@@ -7,7 +7,7 @@ I'm a cybersecurity professional focused on strengthening digital infrastructure
 
 ## 👨‍💻 Cybersecurity Projects
 
-### Vulnerability Scanner
+### **[Vulnerability Scanner with Tenable](https://github.com/AniqShamsuddin/Windows10-Vulnerability-Scanner/tree/main)**
 - Custom-built tool to identify and assess security vulnerabilities in network systems
 - Automated detection of common security weaknesses with detailed remediation steps
 - Configurable scanning parameters to adapt to different network environments
