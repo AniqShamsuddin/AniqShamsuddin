@@ -37,7 +37,7 @@ I'm a cybersecurity professional focused on strengthening digital infrastructure
 
 ## 📫 How to Reach Me
 - LinkedIn: [Aniq Shamsuddin](https://www.linkedin.com/in/aniqshamsuddin)
-- Email: contact@aniqshamsuddin.com
+- Email: aniqshamsuddin2311@gmail.com
 
 ---
 ⭐️ From [aniqshamsuddin](https://github.com/aniqshamsuddin)
