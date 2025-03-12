@@ -35,9 +35,6 @@ I'm a cybersecurity professional focused on strengthening digital infrastructure
 - Threat Detection & Analysis
 - Security Tool Development
 
-## 📊 GitHub Stats
-![Aniq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniqshamsuddin&show_icons=true&theme=tokyonight)
-
 ## 📫 How to Reach Me
 - LinkedIn: [Aniq Shamsuddin](https://www.linkedin.com/in/aniqshamsuddin)
 - Email: contact@aniqshamsuddin.com
