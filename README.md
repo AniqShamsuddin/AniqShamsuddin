@@ -12,7 +12,7 @@ I'm a junior Information Technology major at the The University of Texas at Dall
 - Automated detection of common security weaknesses with detailed remediation steps
 - Configurable scanning parameters to adapt to different network environments
 
-### Security Monitoring Dashboard _(Coming Soon)_
+### **[Home SOC/SIEM Dashboard](https://github.com/AniqShamsuddin/SIEM_Azure/blob/main/README.md)**
 - Real-time visualization of security events and potential threats
 - Aggregation of alerts from multiple security tools
 - Customizable dashboard for improved incident response
