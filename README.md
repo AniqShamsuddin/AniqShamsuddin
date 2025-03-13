@@ -12,7 +12,7 @@ I'm a junior Information Technology major at the The University of Texas at Dall
 - Automated detection of common security weaknesses with detailed remediation steps
 - Configurable scanning parameters to adapt to different network environments
 
-### **[Home SOC Dashboard](https://github.com/AniqShamsuddin/SIEM_Azure/blob/main/README.md)**
+### **[Home SOC + SIEM Dashboard](https://github.com/AniqShamsuddin/SIEM_Azure/blob/main/README.md)**
 - Created a honeypot that captures real-time attacks
 - Demonstrates practical SOC operations by centralizing and analyzing logs in Microsoft Sentinel 
 - Facilitates clear threat visualization through enriched geolocation data and dynamic attack mapping
