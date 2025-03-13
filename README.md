@@ -13,13 +13,13 @@ I'm a junior Information Technology major at the The University of Texas at Dall
 - Configurable scanning parameters to adapt to different network environments
 
 ### **[Home SOC Dashboard](https://github.com/AniqShamsuddin/SIEM_Azure/blob/main/README.md)**
-- Real-time visualization of security events and potential threats
-- Aggregation of alerts from multiple security tools
-- Customizable dashboard for improved incident response
+- Created a honeypot that captures real-time attacks
+- Demonstrates practical SOC operations by centralizing and analyzing logs in Microsoft Sentinel 
+- Facilitates clear threat visualization through enriched geolocation data and dynamic attack mapping
 
 ## 👨🏻‍🎓 Certifications
 - **Google Cybersecurity Professional Certificate**
-  - Comprehensive training in cybersecurity fundamentals including network security, system architecture, and incident response
+  - Comprehensive training in cybersecurity fundamentals, including network security, system architecture, and incident response
   - Hands-on experience with security tools and techniques for real-world scenarios
 
 ## 🌱 I'm Currently Learning
