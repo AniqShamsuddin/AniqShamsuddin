@@ -21,8 +21,6 @@ I'm a junior Information Technology major at the The University of Texas at Dall
 - **Google Cybersecurity Professional Certificate**
   - Comprehensive training in cybersecurity fundamentals, including network security, system architecture, and incident response
   - Hands-on experience with security tools and techniques for real-world scenarios
-
-## 🌱 I'm Currently Learning
 - **CompTIA Security+ Certification**
   - Industry-standard certification covering network security, compliance, operational security, and threats/vulnerabilities
   - Building expertise in identity management and access controls
