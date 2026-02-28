@@ -7,6 +7,11 @@ I'm a senior Information Technology major at the The University of Texas at Dall
 
 ## 👨‍💻 Cybersecurity Projects
 
+### **[PhishGuard - Email Scanner](https://github.com/AniqShamsuddin/PhishGuard-Chrome-Extension)**
+- Built PhishGuard, a Chrome extension that scans Gmail emails in real time and assigns a Safe / Suspicious / High Risk phishing score based on links, sender/domain patterns, and scam language signals.
+- Designed an explainable detection workflow (risk score + evidence/reasons) and injected inbox badges + a details panel to help users understand why an email was flagged.
+- Improved scoring consistency by reducing false positives/negatives (newsletter link handling + stronger spam keyword/domain heuristics) while keeping analysis client-side for privacy.
+
 ### **[Vulnerability Scanner with Tenable](https://github.com/AniqShamsuddin/Windows10-Vulnerability-Scanner/tree/main)**
 - Custom-built tool to identify and assess security vulnerabilities in network systems
 - Automated detection of common security weaknesses with detailed remediation steps
